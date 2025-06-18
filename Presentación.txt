@@ -1,0 +1,7 @@
+El presente proyecto tiene como objetivo analizar el comportamiento histórico de la acción de Google (Alphabet Inc.) y desarrollar un modelo de predicción que permita estimar el precio de cierre del siguiente día. Para ello, se utiliza un conjunto de datos que abarca más de 20 años de actividad bursátil, desde el 19 de agosto de 2004 hasta el 10 de junio de 2025. Este dataset ofrece una visión detallada del ritmo diario del mercado, incluyendo variables clave como el precio de apertura, cierre, máximos y mínimos, volumen de operaciones y precio ajustado.
+
+Más allá de una simple colección de cifras, estos datos reflejan la evolución de una de las empresas más influyentes de la era digital. Cada fila representa un instante en el que la innovación, la incertidumbre o la emoción del mercado dejaron huella.
+
+Este análisis busca ir más allá de la observación descriptiva: se emplean técnicas de ciencia de datos y aprendizaje automático para construir un modelo que pueda predecir con precisión el precio de cierre de la acción para el siguiente día hábil. En un entorno financiero cada vez más guiado por los datos, contar con una herramienta que anticipe el comportamiento del mercado puede marcar la diferencia en la toma de decisiones estratégicas.
+
+Así, este proyecto no solo representa un ejercicio técnico, sino también una oportunidad para comprender mejor los patrones detrás del movimiento del mercado, identificar señales ocultas y, sobre todo, transformar datos en conocimiento útil para la acción.
